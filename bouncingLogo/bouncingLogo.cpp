@@ -42,8 +42,6 @@ bool initializeAllegro() {
 
 int main() {
 
-    initializeAllegro();
-
     std::cout << "==== Choose visualization mode ====" << std::endl;
     std::cout << "For visualization in terminal paste: terminal" << std::endl;
     std::cout << "For visualization in display screen (using Allegro library) paste: allegro" << std::endl;
@@ -63,6 +61,9 @@ int main() {
 
     else if (chooseMode == "allegro") { //If user input is "allegro", bouncing logo visualization will be in display screen
         std::cout << "You chose allegro" << std::endl;
+
+        initializeAllegro();
+
         //Console input dimensions of screen
         std::string input;
         int SCREEN_WIDTH = 800;

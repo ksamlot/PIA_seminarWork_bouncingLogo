@@ -21,9 +21,15 @@
     <ClCompile Include="findLCM.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="terminalBouncing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="findLCM.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="terminalBouncing.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

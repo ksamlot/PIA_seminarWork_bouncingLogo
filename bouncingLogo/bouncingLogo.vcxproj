@@ -129,9 +129,11 @@
   <ItemGroup>
     <ClCompile Include="bouncingLogo.cpp" />
     <ClCompile Include="findLCM.cpp" />
+    <ClCompile Include="terminalBouncing.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="findLCM.h" />
+    <ClInclude Include="terminalBouncing.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

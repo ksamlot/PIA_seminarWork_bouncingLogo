@@ -1,4 +1,7 @@
 ﻿  bouncingLogo.cpp
-  bouncingLogo.vcxproj -> C:\CVUT\PIA\bouncingLogoSeminarWork\bouncingLogo\x64\Debug\bouncingLogo.exe
+  findLCM.cpp
+  Generating Code...
+  LINK : C:\CVUT\PIA\bouncingLogoSeminarWork\PIA_seminarWork_bouncingLogo\x64\Debug\bouncingLogo.exe not found or not built by the last incremental link; performing full link
+  bouncingLogo.vcxproj -> C:\CVUT\PIA\bouncingLogoSeminarWork\PIA_seminarWork_bouncingLogo\x64\Debug\bouncingLogo.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.

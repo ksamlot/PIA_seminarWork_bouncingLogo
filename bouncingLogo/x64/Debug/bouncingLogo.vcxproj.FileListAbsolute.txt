@@ -1,1 +1,2 @@
 C:\CVUT\PIA\bouncingLogoSeminarWork\bouncingLogo\bouncingLogo\x64\Debug\bouncingLogo.vcxproj.CopyComplete
+C:\CVUT\PIA\bouncingLogoSeminarWork\PIA_seminarWork_bouncingLogo\bouncingLogo\x64\Debug\bouncingLogo.vcxproj.CopyComplete
